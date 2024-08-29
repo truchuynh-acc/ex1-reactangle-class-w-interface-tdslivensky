@@ -1,11 +1,11 @@
 /**Driver Code*/
 
 /**
-Programmer: 
+Programmer: Timothy Slivensky
 Project number: 1
-Project Desc: Quadratic Expression class
+Project Desc: Rectangle Area implementation
 Course: COSC-2436-007 (92905) III Data Structures
-Date:   
+Date: 8-28-2024
 */
 /** @file driver.cpp */
 
